@@ -25,6 +25,8 @@ httpserver/
 **Tools to install now:** `g++`, `cmake`, `make`, `valgrind`, `gdb`, `clang-format`, `wrk` (for benchmarking later).
 
 ---
+<img width="695" height="550" alt="image" src="https://github.com/user-attachments/assets/54723e95-d89d-4f98-88bd-92db46a32dd4" />
+
 
 ## The 10-week plan
 
